@@ -1,0 +1,18 @@
+@import './font.css';
+
+* {
+  padding: 0px;
+  margin: 0px auto;
+  max-width: 1700px;
+  text-align: center;
+  font-family: 'Andika New Basic', sans-serif;
+  background-color: #efefef;
+}
+.logo{
+  background-image: url('../assets/logo.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  margin: 20px auto;
+}

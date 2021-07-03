@@ -1,0 +1,10 @@
+$border: 2px solid #b8b8b8;
+$bgCol: #b8b8b8;
+
+.scssClass{
+  margin: 0px auto;
+  height: 100px;
+  width: 100px;
+  background-color: $bgCol;
+  border: $border;
+}
